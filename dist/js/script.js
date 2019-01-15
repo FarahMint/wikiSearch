@@ -1,5 +1,10 @@
-//var
+// https://www.mediawiki.org/wiki/API:Main_page
+https://www.mediawiki.org/wiki/Special:ApiSandbox#action=query&format=json&origin=*&prop=&list=search&srsearch=apple
 
+
+
+
+//var
 const input = document.querySelector(".main-search");
 const searchBtn = document.querySelector(".main-btn");
 
