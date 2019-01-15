@@ -1,0 +1,14 @@
+{
+  "name": "wikisearch",
+  "version": "1.0.0",
+  "description": "wikipedia Search toolBox",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "wikipedia search"
+  ],
+  "author": "FarahMint",
+  "license": "MIT"
+}
